@@ -1,0 +1,19 @@
+
+
+.searchBox{
+    width: 1000px;
+    height: 60px;
+    font-size: 50px;
+    border: solid;
+    color: tomato;
+} 
+
+
+h1{
+    color: brown;
+    align-items: center;
+}
+button{
+    color: cornflowerblue;
+    border: solid;
+}
